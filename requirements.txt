@@ -1,6 +1,3 @@
-fastcore
 fastai
-voila
-pillow>=7.1.0
-packaging
-ipywidgets==7.5.1
+voilai==0.3.6
+ipywidgets==7.7.2
